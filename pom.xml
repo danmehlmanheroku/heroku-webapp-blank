@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.sue445</groupId>
     <version>1.0-SNAPSHOT</version>
-    <artifactId>heroku-webapp</artifactId>
+    <artifactId>heroku-webapp-blank</artifactId>
     <dependencies>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
