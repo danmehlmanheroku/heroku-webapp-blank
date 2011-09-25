@@ -56,6 +56,14 @@
                 </execution>
                 </executions>
             </plugin>
+            <plugin>
+              <artifactId>maven-eclipse-plugin</artifactId>
+              <configuration>
+                <downloadSources>true</downloadSources>
+                <downloadJavadocs>false</downloadJavadocs>
+                <useProjectReferences>false</useProjectReferences>
+              </configuration>
+            </plugin>
         </plugins>
     </build>
 </project>
